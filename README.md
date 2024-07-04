@@ -10,10 +10,6 @@
 
 ###
 
-<h3 align="left">Github Commits</h3>
-
-###
-
 <img src="https://raw.githubusercontent.com/darshansrc/darshansrc/output/snake.svg" alt="Snake animation" />
 
 ###
