@@ -8,9 +8,6 @@
 
 <p align="left">👀 I’m interested in Full Stack Web Development, Games, Books, Math and Science<br>🌱 I’m currently learning Next.js and Rust.
 
-###
-
-<img src="https://raw.githubusercontent.com/darshansrc/darshansrc/output/snake.svg" alt="Snake animation" />
 
 ###
 
