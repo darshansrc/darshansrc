@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in Full Stack Web Development, Games, Books, Math and Science<br>🌱 I’m currently learning Next.js and Rust.
+<p align="left">👀 I’m Enthusiastic in Full Stack Web Development. <br>🌱 I’m currently learning Next.js and Rust.
 
 
 ###
@@ -47,13 +47,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<h3 align="left">GitRoll Profile</h3>
-
-###
-
-<a href="https://gitroll.io/profile/sm2tbAf5QkDvYcQ2dKh6x" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/sm2tbAf5QkDvYcQ2dKh6x" alt="GitRoll Profile Badge"/></a>
 
 ###
 
