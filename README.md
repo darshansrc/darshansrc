@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 I’m Enthusiastic in Full Stack Web Development. <br>🌱 I’m currently learning Next.js and Rust.
+<p align="left">👀 I’m Enthusiastic in Full Stack Web Development. <br>🌱 I’m currently learning Next.js and Go.
 
 
 ###
