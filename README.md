@@ -2,8 +2,7 @@
 
 <p align="left">
   <samp>
-    <a href="https://twitter.com/darshansrc">twitter</a> .
-    <a href="https://darshansrc.vercel.app/blog">blog</a> .
-    <a href="https://darshansrc.vercel.app">portfolio</a> 
+    <a href="https://x.com/darshansrc">X</a> .
+    <a href="https://darshansrc.com">darshansrc.com</a> 
   </samp>
 </p>
