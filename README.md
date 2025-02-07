@@ -2,7 +2,6 @@
 
 <p align="left">
   <samp>
-    <a href="https://x.com/darshansrc">X</a> .
-    <a href="https://darshansrc.com">darshansrc.com</a> 
+    <a target="_blank" href="https://darshansrc.com">darshansrc.com</a> 
   </samp>
 </p>
