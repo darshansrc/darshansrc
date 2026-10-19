@@ -3,6 +3,6 @@ I do Typescript whenever I'm not sleeping!, currently building  <a target="_blan
 
 <p align="left">
   <samp>
-    <a target="_blank" href="https://darshansrc.com">darshansrc.com</a> 
+    <a target="_blank" href="https://darshansrc.com">darshansrc.tech</a> 
   </samp>
 </p>
